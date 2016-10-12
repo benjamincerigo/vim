@@ -1,0 +1,6 @@
+reload the vim file
+
+When editing vile file
+:so %
+when anywhere.
+:so $MYVIMRC

@@ -1,0 +1,7 @@
+Delete tabs
+shortest/simplest/fastest way would be
+:qa
+To save work in all tabs and quit:
+:wqa
+
+
