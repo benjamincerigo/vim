@@ -7,3 +7,6 @@
 [submodule "bundle/javascript-libraries-systax.vim"]
 	path = bundle/javascript-libraries-systax.vim
 	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "bundle/vim-ansible-yaml"]
+	path = bundle/vim-ansible-yaml
+	url = git://github.com/chase/vim-ansible-yaml.git
