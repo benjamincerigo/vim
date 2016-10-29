@@ -39,7 +39,7 @@ hi Question guifg=#c2ffdf guibg=bg gui=NONE ctermfg=0
 hi Search guifg=#5a5475 guibg=#c5a3ff gui=NONE ctermfg=0
 "hi SignColumn
 "hi SpecialKey
-hi SpellBad guifg=#f8f8f0 guibg=#f92672 gui=NONE ctermfg=0
+hi SpellBad guifg=NONE guibg=NONE gui=underline ctermfg=0
 "hi SpellCap
 "hi SpellLocal
 "hi SpellRare
@@ -99,7 +99,7 @@ hi Underlined guifg=NONE guibg=NONE gui=underline ctermfg=0
 
 "hi Ignore
 
-hi Error guifg=#f8f8f0 guibg=#f92672 gui=NONE
+hi Error guifg=#f8f8f8 guibg=#f92672 gui=NONE
 
 hi Todo guifg=#e6c000 guibg=NONE gui=inverse,bold
 
