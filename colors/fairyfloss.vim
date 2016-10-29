@@ -53,7 +53,7 @@ hi TabLineFill guifg=fg guibg=#ae81ff gui=NONE ctermfg=0
 hi Title guifg=fg guibg=NONE gui=bold ctermfg=0
 "hi TooLong
 hi VertSplit guifg=#ae81ff guibg=#ae81ff gui=NONE ctermfg=0
-hi Visual guifg=NONE guibg=#49483e gui=NONE ctermfg=0
+hi Visual guifg=NONE guibg=#1C1C18 gui=NONE ctermfg=0 cterm=NONE term=NONE
 hi WarningMsg guifg=#f8f8f0 guibg=#f92672 gui=NONE ctermfg=0
 hi WildMenu guifg=#5a5475 guibg=#c2ffdf gui=bold ctermfg=0
 
